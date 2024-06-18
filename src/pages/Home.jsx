@@ -1,4 +1,13 @@
+import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
+import Hightlight from "../components/Hightlight";
 export const Home = () => {
-	return <h1 className="text-3xl font-bold underline">Hello World</h1>;
+  return (
+    <main className="bg-black">
+      <Navbar />
+      <Hero />
+      <Hightlight />
+    </main>
+  );
 };
 export default Home;

@@ -15,7 +15,7 @@ function Features() {
             <div className="flex flex-col justify-center items-center overflow-hidden">
                 <div className="mt-32 mb-24 pl-24">
                     <h2 className='text-5xl lg:text-7xl'>Iphone</h2>
-                    <h2 className='text-5xl lg:text-7xl font-semibold'>Forged in titanium</h2>
+                    <h2 className='text-5xl lg:text-7xl font-semibold'>Forgedd in titanium</h2>
                 </div>
             </div>
 		</section>

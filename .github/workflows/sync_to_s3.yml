@@ -18,4 +18,4 @@ jobs:
           aws-region: us-east-2 # Change this to your region of your bucket
 
       - name: Sync to S3
-        run: aws s3 sync ./dist s3://diego-aws-s3 # Change this to your bucket name
+        run: aws s3 sync ./dist s3://iphone-gsap-three 
